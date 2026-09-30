@@ -1,0 +1,60 @@
+HISTORY STUDY SITE AUDIT
+========================
+
+Total questions: 283
+Short: 187
+OX: 46
+Essay/data: 50
+Image questions: 12
+
+Page order check: PASS
+Sequential ID check: PASS
+Duplicate question check: PASS
+Image-path check: PASS
+
+Questions by page:
+p.130: 12
+p.131: 11
+p.132: 10
+p.133: 10
+p.134: 10
+p.135: 12
+p.136: 11
+p.137: 12
+p.138: 12
+p.139: 10
+p.140: 4
+p.141: 13
+p.142: 0
+p.143: 0
+p.144: 6
+p.145: 10
+p.146: 12
+p.147: 10
+p.148: 13
+p.149: 10
+p.150: 6
+p.151: 9
+p.152: 13
+p.153: 12
+p.154: 8
+p.155: 5
+p.156: 6
+p.157: 8
+p.158: 12
+p.159: 7
+p.160: 9
+
+Image crops included:
+- spices_p130.jpg
+- routes_p131.jpg
+- machu_p132.jpg
+- luther_p135.jpg
+- starfort_p136.jpg
+- rights_source_p138.jpg
+- tea_p145.jpg
+- bastille_p148.jpg
+- liberty_p150.jpg
+- railway_p158.jpg
+- childlabor_p159.jpg
+- marx_p160.jpg
